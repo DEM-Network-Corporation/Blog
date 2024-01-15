@@ -42,3 +42,7 @@ div.text {
   padding:1px 16px;
   height:1000px;
 }
+.active {
+  background-color: #00FF96;
+  color: white;
+}
