@@ -62,7 +62,9 @@ h1 {
   text-align: center;
 }
 button:hover {
-  color: #003992;
-  padding: 30px;
+  background-color: #003992;
+  padding: 30px 45px 30px 45px;
   border-radius: 5px;
+  height: 60px;
+  width: 90px;
 }
