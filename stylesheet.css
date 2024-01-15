@@ -55,8 +55,6 @@ button {
   background-color: #0069FF;
   padding: 30px;
   border-radius: 5px;
-  height: 60px;
-  width: 90px;
 }
 h1 {
   color: #FF0000;
@@ -67,7 +65,5 @@ button:hover {
   background-color: #003992;
   padding: 30px;
   border-radius: 5px;
-  height: 60px;
-  width: 90px;
   color: #FFFFFF;
 }
